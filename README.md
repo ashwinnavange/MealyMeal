@@ -1,4 +1,4 @@
-# healthtick
+# MealyMeal
 
 A new Flutter project.
 
